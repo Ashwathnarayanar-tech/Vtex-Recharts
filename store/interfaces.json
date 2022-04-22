@@ -1,0 +1,20 @@
+{
+  "line-chart":{
+    "component":"Chartline"
+  },
+  "bar-chart":{
+    "component":"Chartbar"
+  },
+  "pie-chart":{
+    "component":"Chartpie"
+  },
+  "tree-map":{
+    "component":"Maptree"
+  },
+  "area-chart":{
+    "component":"Chartarea"
+  },
+  "composed-chart":{
+    "component":"Chartcomposed"
+  }
+}

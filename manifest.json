@@ -1,0 +1,20 @@
+{
+  "vendor": "echidna",
+  "name": "charts",
+  "version": "0.0.1",
+  "title": "Charts",
+  "description": "This is a charts app, using this we can render line-chart,bar-chart,pie-cgart and tree-map.",
+  "builders": {
+    "styles": "2.x",
+    "store": "0.x",
+    "sitemap": "0.x",
+    "docs": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {},
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
